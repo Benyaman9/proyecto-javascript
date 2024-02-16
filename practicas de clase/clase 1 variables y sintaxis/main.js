@@ -2,7 +2,7 @@
 
 
 
-let numero_1 = Number(prompt("ingrese el primer numero") )
+let numero_1 = Number(prompt("ingrese el primer numero deseado por favor no me falles terminal ") )
 
 let numero_2 = Number(prompt("ingrese el numerod deseado"))
 
