@@ -17,15 +17,15 @@ alert("tu oponente eligio: "+ eleccion (pc))
 
 //posibles resultados
 if (jugador == pc) {
-    alert("EMPATE")
+    alert("EMPATE 🤷‍♂️")
 } else if (jugador == 1 && pc == 3) {
-    alert("Ganaste")
+    alert("GANASTE, SOS UNA BESTIA CRACK!✌")
 } else if (jugador == 2 && pc == 1) {
-    alert("Ganaste")
+    alert("GANASTE, SOS UNA BESTIA CRACK!✌")
 } else if (jugador == 3 && pc == 2) {
-    alert("Ganaste")
+    alert("GANASTE, SOS UNA BESTIA CRACK!✌")
 } else {
-    alert("PERDISTE")
+    alert("PERDISTE GG BRO 😭")
 }
 
 function eleccion (jugada) {
